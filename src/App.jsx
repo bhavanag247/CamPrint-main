@@ -1,16 +1,16 @@
 import React, { useEffect, useRef, useState } from "react";
 import { Routes, Route } from "react-router-dom";
-import Navbar from "./Components/Navbar.jsx";
-import Hero from "./Components/Hero.jsx";
-import Uploadbox from "./Components/Uploadbox.jsx";
-import HowItWorks from "./Components/HowItWorks.jsx";
-import Pricing from "./Components/Pricing.jsx";
-import Contact from "./Components/Contact.jsx";
-import Footer from "./Components/Footer.jsx";
-import Auth from "./pages/Auth";
-import Dashboard from "./pages/Dashboard";
-import Admin from "./pages/Admin";
-import AdminLogin from "./pages/AdminLogin";
+import Navbar from "./assets/Components/Navbar.jsx";
+import Hero from "./assets/Components/Hero.jsx";
+import Uploadbox from "./assets/Components/Uploadbox.jsx";
+import HowItWorks from "./assets/Components/HowItWorks.jsx";
+import Pricing from "./assets/Components/Pricing.jsx";
+import Contact from "./assets/Components/Contact.jsx";
+import Footer from "./assets/Components/Footer.jsx";
+import Auth from "./assets/pages/Auth.jsx";
+import Dashboard from "./assets/pages/Dashboard.jsx";
+import Admin from "./assets/pages/Admin.jsx";
+import AdminLogin from "./assets/pages/AdminLogin.jsx";
 
 
 
